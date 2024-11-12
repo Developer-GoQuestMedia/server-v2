@@ -1,0 +1,98 @@
+API Endpoints Documentation
+=========================
+
+Video Routes (/api/video)
+------------------------
+
+GET /api/video/list
+
+- Description: Lists all videos from the R2 bucket
+- Query Parameters:
+  * prefix (optional) - Filter videos by prefix
+- Response: Array of video objects containing:
+  * key: String (file path)
+  * size: Number (file size)
+  * lastModified: Date
+- Status Codes:
+  * 200: Success
+  * 500: Server error
+
+GET /api/video/list/:prefix
+- Description: Lists all videos from the R2 bucket with a specific prefix
+- URL Parameters:
+  * prefix: String (prefix to filter videos by)
+- Response: Array of video objects containing:
+  * key: String (file path)
+  * size: Number (file size)
+  * lastModified: Date
+
+GET /api/video/:path(*)
+- Description: Get a presigned URL for a specific video
+- URL Parameters:
+  * path: Full path to video file
+- Special Handling:
+  * Automatically inserts 'video/' after 'Kuma/' if missing
+- Response: Object containing:
+  * url: String (presigned URL)
+  * key: String (processed file path)
+  * originalPath: String (requested path)
+- Status Codes:
+  * 200: Success
+  * 400: Invalid video path
+  * 404: Video not found
+  * 500: Server error
+
+Dialogue Routes (/api/dialogues)
+------------------------------
+
+GET /api/dialogues/list/:projectId
+- Description: Get all dialogues for a specific project
+- URL Parameters:
+  * projectId: MongoDB ObjectId
+- Response: Array of dialogue objects with populated lastEditedBy
+- Status Codes:
+  * 200: Success
+  * 400: Invalid project ID
+  * 500: Server error
+
+GET /api/dialogues/video/:videoUrl
+- Description: Get all dialogues for a specific video
+- URL Parameters:
+  * videoUrl: Encoded video URL
+- Response: Array of dialogue objects with populated lastEditedBy
+- Status Codes:
+  * 200: Success
+  * 404: No dialogues found
+  * 500: Server error
+
+PUT /api/dialogues/:id
+- Description: Update a dialogue entry
+- URL Parameters:
+  * id: MongoDB ObjectId
+- Request Body: Dialogue object with updated fields
+- Authentication: Required
+- Special Permissions:
+  * canApprove: Required for setting status to 'approved'
+- Response: Updated dialogue object
+- Status Codes:
+  * 200: Success
+  * 400: Invalid dialogue ID
+  * 403: Unauthorized for approval
+  * 404: Dialogue not found
+  * 500: Server error
+
+DELETE /api/dialogues/:id
+- Description: Delete a dialogue entry
+- URL Parameters:
+  * id: MongoDB ObjectId
+- Authentication: Required
+- Response: Success message
+- Status Codes:
+  * 200: Success
+  * 404: Dialogue not found
+  * 500: Server error
+
+Notes:
+- All error responses include a message and (in development) the error details
+- Authentication is handled via req.user middleware
+- Timestamps and lastEditedBy are automatically managed
