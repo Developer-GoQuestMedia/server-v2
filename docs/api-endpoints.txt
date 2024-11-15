@@ -70,6 +70,14 @@ PUT /api/dialogues/:id
 - URL Parameters:
   * id: MongoDB ObjectId
 - Request Body: Dialogue object with updated fields
+{
+    "dialogue": {
+      "original": "Updated original text",    
+      "translated": "Updated translated text",
+      "adapted": "Updated adapted text"       
+    },
+    "status": "pending"
+  }
 - Authentication: Required
 - Special Permissions:
   * canApprove: Required for setting status to 'approved'

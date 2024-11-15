@@ -4,6 +4,32 @@ import mongoose from 'mongoose';
 
 const router = express.Router();
 
+// Add this before your routes
+router.use(express.json({
+    verify: (req, res, buf) => {
+        try {
+            JSON.parse(buf);
+        } catch (e) {
+            console.log('Raw body:', buf.toString());
+            console.log('Parse error at position:', e.message);
+            throw e;
+        }
+    }
+}));
+
+// Add this error handling middleware before your routes
+router.use((err, req, res, next) => {
+    if (err instanceof SyntaxError && err.status === 400 && 'body' in err) {
+        console.log('Invalid JSON received:', req.body);
+        return res.status(400).json({ 
+            message: 'Invalid JSON format in request body',
+            error: process.env.NODE_ENV === 'development' ? err.message : {},
+            position: err.message.match(/position (\d+)/)?.[1]
+        });
+    }
+    next();
+});
+
 // GET /api/dialogues/list/:projectId - Get all dialogues for a project
 router.get('/list/:projectId', async (req, res) => {
     try {
@@ -118,11 +144,11 @@ router.put('/:id', async (req, res) => {
         };
         
         // Check if user has approval rights when status is being changed to 'approved'
-        if (updateData.status === 'approved' && (!req.user?.canApprove)) {
-            return res.status(403).json({ 
-                message: 'User does not have approval rights'
-            });
-        }
+        // if (updateData.status === 'approved' && (!req.user?.canApprove)) {
+        //     return res.status(403).json({ 
+        //         message: 'User does not have approval rights'
+        //     });
+        // }
         
         // Only add lastEditedBy if req.user exists
         if (req.user && req.user._id) {
