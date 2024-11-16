@@ -11,25 +11,40 @@ dotenv.config();
 
 const app = express();
 
-// Middleware
-app.use(cors());
+// Enhanced CORS configuration
+app.use(cors({
+    origin: ['http://localhost:3000', 'https://developer-goquestmedia.github.io'],
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+    allowedHeaders: [
+        'Content-Type', 
+        'Authorization', 
+        'Accept',
+        'Range',  // Important for video streaming
+        'Accept-Ranges',
+        'Content-Range',
+        'Content-Length'
+    ],
+    exposedHeaders: [
+        'Content-Range',
+        'Accept-Ranges',
+        'Content-Length',
+        'Content-Type'
+    ],
+    credentials: true,
+    maxAge: 86400 // Cache CORS preflight requests for 24 hours
+}));
+
+
 app.use(express.json());
+
+
+
 
 // Routes
 app.use('/api/dialogues', dialogueRoutes);
 app.use('/api/videos', videoRoutes);
 app.use('/api/audio', audioRoutes);
-app.use((req, res, next) => {
-    console.log('Available routes:', app._router.stack.filter(r => r.route).map(r => r.route.path));
-    next();
-});
 
-// Debug route registration
-app._router.stack.forEach(function(r){
-    if (r.route && r.route.path){
-        console.log(`Route registered: ${r.route.stack[0].method.toUpperCase()} ${r.route.path}`);
-    }
-});
 
 const PORT = process.env.PORT || 5000;
 
