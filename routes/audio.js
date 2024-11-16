@@ -18,6 +18,9 @@ const s3Client = new S3Client({
 });
 
 router.post('/upload', upload.single('audio'), async (req, res) => {
+    console.log('Route hit!');
+    console.log('Request body:', req.body);
+    console.log('Request file:', req.file);
     try {
         // console.log('Environment variables:', {
         //     endpoint: process.env.R2_PUBLIC_ENDPOINT,

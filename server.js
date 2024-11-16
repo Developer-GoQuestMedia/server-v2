@@ -19,6 +19,17 @@ app.use(express.json());
 app.use('/api/dialogues', dialogueRoutes);
 app.use('/api/videos', videoRoutes);
 app.use('/api/audio', audioRoutes);
+app.use((req, res, next) => {
+    console.log('Available routes:', app._router.stack.filter(r => r.route).map(r => r.route.path));
+    next();
+});
+
+// Debug route registration
+app._router.stack.forEach(function(r){
+    if (r.route && r.route.path){
+        console.log(`Route registered: ${r.route.stack[0].method.toUpperCase()} ${r.route.path}`);
+    }
+});
 
 const PORT = process.env.PORT || 5000;
 
