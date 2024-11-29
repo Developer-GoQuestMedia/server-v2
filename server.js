@@ -61,7 +61,7 @@ const startServer = async () => {
         // await uploadToR2();
 
         // console.log('R2 Upload completed');
-        await seedDatabase();
+        // await seedDatabase();
             
         app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
     } catch (error) {
