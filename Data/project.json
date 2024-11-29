@@ -1,0 +1,12 @@
+[{
+    "_id": {
+      "$oid": "123456789123456789123456"
+    },
+    "title": "Kuma Ep 01",
+    "assignedTo": [],    
+    "description": "Turkish animation dubbing project",
+    "sourceLanguage": "Turkish",
+    "status": "in-progress",
+    "targetLanguage": "English",
+    "videoPath": "/Kuma Ep 01/videos/Kuma Ep 01_Clip_01.mp4"
+  }]

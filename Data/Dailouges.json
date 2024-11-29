@@ -1,0 +1,3802 @@
+[
+    {
+        "index": {
+            "$numberInt": "01"
+        },
+        "timeStart": "00:00:00:280",
+        "timeEnd": "00:00:01:280",
+        "character": "Nadire",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_01.mp4",
+        "dialogue": {
+            "original": "-Nadire.",
+            "translated": "-Nadire.",
+            "adapted": "-नाम_0."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "02"
+        },
+        "timeStart": "00:00:02:120",
+        "timeEnd": "00:00:04:120",
+        "character": "Nadire",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_02.mp4",
+        "dialogue": {
+            "original": "-Nadire. -Evet hanımefendi.",
+            "translated": "-Nadire. -Yes, my Lady.",
+            "adapted": "-नाम_०. -हाँ, मेरी लेडी."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "03"
+        },
+        "timeStart": "00:00:04:600",
+        "timeEnd": "00:00:06:640",
+        "character": "Karan",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_03.mp4",
+        "dialogue": {
+            "original": "-Karan'ün odası hazır mı? -Evet, Leydim.",
+            "translated": "-Is Karan's room ready? -Yes, my Lady.",
+            "adapted": "-क्या Karan का कमरा तैयार है? -हाँ, मेरी लेडी।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "04"
+        },
+        "timeStart": "00:00:06:720",
+        "timeEnd": "00:00:08:680",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_04.mp4",
+        "dialogue": {
+            "original": "-Mutfakta her şey yolunda mı? -Evet, öyle.",
+            "translated": "-Is everything okay in the kitchen? -Yes, it is.",
+            "adapted": "-क्या रसोई में सब कुछ ठीक है? -हाँ, सब ठीक है।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "05"
+        },
+        "timeStart": "00:00:08:760",
+        "timeEnd": "00:00:11:360",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_05.mp4",
+        "dialogue": {
+            "original": "-Tekrar kontrol eder misiniz lütfen? -Elbette hanımefendi.",
+            "translated": "-Will you please recheck it? -Sure, my Lady.",
+            "adapted": "-क्या आप कृपया इसकी पुनः जांच करेंगी? -ज़रूर, मेरी लेडी।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "06"
+        },
+        "timeStart": "00:00:11:440",
+        "timeEnd": "00:00:13:920",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_06.mp4",
+        "dialogue": {
+            "original": "Tamam, her şeyin yolunda olduğundan emin ol..",
+            "translated": "Well, make sure everything is alright..",
+            "adapted": "खैर, सुनिश्चित करें कि सब कुछ ठीक है.."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "07"
+        },
+        "timeStart": "00:00:14:520",
+        "timeEnd": "00:00:15:520",
+        "character": "Ayse",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_07.mp4",
+        "dialogue": {
+            "original": "İSİM_4!",
+            "translated": "Ayse!",
+            "adapted": "नाम_4!"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "08"
+        },
+        "timeStart": "00:00:15:760",
+        "timeEnd": "00:00:17:600",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_08.mp4",
+        "dialogue": {
+            "original": "-Evet hanımefendi. -Her yer temiz.",
+            "translated": "-Yes, my Lady. -Clean everywhere.",
+            "adapted": "-हाँ, मेरी लेडी. -हर जगह साफ़."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "09"
+        },
+        "timeStart": "00:00:17:640",
+        "timeEnd": "00:00:20:000",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_09.mp4",
+        "dialogue": {
+            "original": "En ufak bir toz bile görmek istemiyorum.",
+            "translated": "I don't want to see even a little dust.",
+            "adapted": "मैं जरा सी भी धूल नहीं देखना चाहता।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "10"
+        },
+        "timeStart": "00:00:20:000",
+        "timeEnd": "00:00:22:120",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_10.mp4",
+        "dialogue": {
+            "original": "-Tamam hanımefendi. -Tertemiz olsun istiyorum.",
+            "translated": "-Alright, my Lady. -I want it spotless.",
+            "adapted": "-ठीक है, मेरी लेडी. -मैं इसे बेदाग चाहता हूँ."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "11"
+        },
+        "timeStart": "00:00:23:400",
+        "timeEnd": "00:00:25:240",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_11.mp4",
+        "dialogue": {
+            "original": "Bu resim neden bu kadar eğri asılmış?",
+            "translated": "Why is this picture hung so crooked?",
+            "adapted": "यह चित्र इतना टेढ़ा क्यों लटका हुआ है?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "12"
+        },
+        "timeStart": "00:00:25:280",
+        "timeEnd": "00:00:27:640",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_12.mp4",
+        "dialogue": {
+            "original": "Tozunu aldıktan sonra düzeltmeyi deneseniz olmaz mı?",
+            "translated": "Why don't you straighten it after dusting it?",
+            "adapted": "तुम इसे झाड़ने के बाद सीधा क्यों नहीं करते?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "13"
+        },
+        "timeStart": "00:00:27:720",
+        "timeEnd": "00:00:29:280",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_13.mp4",
+        "dialogue": {
+            "original": "Hemen düzelteceğim.",
+            "translated": "I’ll fix it right away.",
+            "adapted": "मैं इसे तुरंत ठीक कर दूंगा."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "14"
+        },
+        "timeStart": "00:00:41:360",
+        "timeEnd": "00:00:42:320",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_14.mp4",
+        "dialogue": {
+            "original": "Merhaba?",
+            "translated": "Hello?",
+            "adapted": "नमस्ते?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "15"
+        },
+        "timeStart": "00:00:42:480",
+        "timeEnd": "00:00:43:640",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_15.mp4",
+        "dialogue": {
+            "original": "Selamlar,",
+            "translated": "Greetings,",
+            "adapted": "अभिवादन,"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "16"
+        },
+        "timeStart": "00:00:44:200",
+        "timeEnd": "00:00:45:000",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_16.mp4",
+        "dialogue": {
+            "original": "Salih Ağa.",
+            "translated": "Salih Agha.",
+            "adapted": "सलीह आग़ा."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "17"
+        },
+        "timeStart": "00:00:45:880",
+        "timeEnd": "00:00:46:880",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_17.mp4",
+        "dialogue": {
+            "original": "Bu nedir?",
+            "translated": "What is this?",
+            "adapted": "यह क्या है?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "18"
+        },
+        "timeStart": "00:00:47:000",
+        "timeEnd": "00:00:49:760",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_18.mp4",
+        "dialogue": {
+            "original": "Kanada'da bana \"bro\" mu diyorsun, Türkiye'de \"agha\" mı?",
+            "translated": "You call me \"bro\" in Canada, \"agha\" in Turkey?",
+            "adapted": "आप मुझे कनाडा में \"ब्रो\" और टर्की में \"आघा\" कहते हैं?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "19"
+        },
+        "timeStart": "00:00:50:040",
+        "timeEnd": "00:00:50:960",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_19.mp4",
+        "dialogue": {
+            "original": "Evet.",
+            "translated": "Yeah.",
+            "adapted": "हाँ।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "20"
+        },
+        "timeStart": "00:00:51:760",
+        "timeEnd": "00:00:54:600",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_20.mp4",
+        "dialogue": {
+            "original": "Sınırı geçtiğim anda eski halime döndüm.",
+            "translated": "The moment I crossed the border, I returned to my old self.",
+            "adapted": "जैसे ही मैंने सीमा पार की, मैं अपनी पुरानी अवस्था में लौट आया।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "21"
+        },
+        "timeStart": "00:00:54:680",
+        "timeEnd": "00:00:55:800",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_21.mp4",
+        "dialogue": {
+            "original": "Peki sen neredesin?",
+            "translated": "Well, where are you?",
+            "adapted": "अच्छा, आप कहां हैं?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "22"
+        },
+        "timeStart": "00:00:57:080",
+        "timeEnd": "00:00:58:160",
+        "character": "Ürgüp",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_22.mp4",
+        "dialogue": {
+            "original": "Ürgüp'e geldim.",
+            "translated": "I came to Ürgüp.",
+            "adapted": "मैं Ürgüp पर आया."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "23"
+        },
+        "timeStart": "00:00:59:480",
+        "timeEnd": "00:01:01:360",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_23.mp4",
+        "dialogue": {
+            "original": "Babamızı ziyaret etmek istiyordum.",
+            "translated": "I wanted to visit our father.",
+            "adapted": "मैं अपने पिता से मिलना चाहता था।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "24"
+        },
+        "timeStart": "00:01:02:040",
+        "timeEnd": "00:01:04:640",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_24.mp4",
+        "dialogue": {
+            "original": "Biliyorsunuz, bugün onun vefat ettiği gün.",
+            "translated": "You know, today is the day he passed away.",
+            "adapted": "तुम्हें पता है, आज ही के दिन उनका निधन हुआ।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "25"
+        },
+        "timeStart": "00:01:04:720",
+        "timeEnd": "00:01:05:720",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_25.mp4",
+        "dialogue": {
+            "original": "Biliyorum.",
+            "translated": "I know.",
+            "adapted": "मुझे पता है।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "26"
+        },
+        "timeStart": "00:01:05:720",
+        "timeEnd": "00:01:08:520",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_26.mp4",
+        "dialogue": {
+            "original": "İnanması zor ama aradan on beş yıl geçti.",
+            "translated": "Hard to believe it’s been fifteen years.",
+            "adapted": "इस बात पर यकीन करना मुश्किल है कि पंद्रह साल हो गए हैं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "27"
+        },
+        "timeStart": "00:01:09:640",
+        "timeEnd": "00:01:10:680",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_27.mp4",
+        "dialogue": {
+            "original": "Annem nasıl?",
+            "translated": "How is mom doing?",
+            "adapted": "माँ कैसी हैं?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "28"
+        },
+        "timeStart": "00:01:11:360",
+        "timeEnd": "00:01:12:920",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_28.mp4",
+        "dialogue": {
+            "original": "Benim burada olduğumu biliyor mu?",
+            "translated": "Does she know that I'm here?",
+            "adapted": "क्या वह जानती है कि मैं यहाँ हूं?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "29"
+        },
+        "timeStart": "00:01:13:480",
+        "timeEnd": "00:01:16:600",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_29.mp4",
+        "dialogue": {
+            "original": "Elbette, sizin babamızın mezarını ziyaret ettiğinizi bilmiyor.",
+            "translated": "Of course, she doesn't know you are visiting our father's grave.",
+            "adapted": "बेशक, वह नहीं जानती कि आप हमारे पिता की कब्र पर आये हैं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "30"
+        },
+        "timeStart": "00:01:16:680",
+        "timeEnd": "00:01:20:880",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_30.mp4",
+        "dialogue": {
+            "original": "Bu kin çocukluğumdan beri var biliyor musun.",
+            "translated": "This grudge has been going on since my childhood, you know.",
+            "adapted": "तुम्हें पता है, यह द्वेष मेरे बचपन से चला आ रहा है।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "31"
+        },
+        "timeStart": "00:01:22:240",
+        "timeEnd": "00:01:25:520",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_31.mp4",
+        "dialogue": {
+            "original": "\"Birisi sana kötülük yaparsa...",
+            "translated": "\"If someone wrongs you...",
+            "adapted": "\"यदि कोई आपके साथ गलत करता है..."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "32"
+        },
+        "timeStart": "00:01:25:800",
+        "timeEnd": "00:01:27:400",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_32.mp4",
+        "dialogue": {
+            "original": "“Onları asla affetme!”",
+            "translated": "never forgive them!”",
+            "adapted": "उन्हें कभी माफ़ मत करना!”"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "33"
+        },
+        "timeStart": "00:01:29:720",
+        "timeEnd": "00:01:31:400",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_33.mp4",
+        "dialogue": {
+            "original": "Neyse, bu onların bileceği iş.",
+            "translated": "Anyway, that’s their business.",
+            "adapted": "खैर, यह उनका मामला है।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "34"
+        },
+        "timeStart": "00:01:31:480",
+        "timeEnd": "00:01:36:160",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_34.mp4",
+        "dialogue": {
+            "original": "Annemize saygılı davranır, babamıza da bir evlat olarak görevimizi yaparız.",
+            "translated": "I respect our mother, and do our duty to our father as his sons.",
+            "adapted": "मैं अपनी मां का सम्मान करता हूं और अपने पिता के प्रति उनके पुत्र होने के नाते अपना कर्तव्य निभाता हूं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "35"
+        },
+        "timeStart": "00:01:37:160",
+        "timeEnd": "00:01:38:520",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_35.mp4",
+        "dialogue": {
+            "original": "Annem çok gergin.",
+            "translated": "Mom is so jumpy.",
+            "adapted": "माँ बहुत उछलकूद कर रही है."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "36"
+        },
+        "timeStart": "00:01:39:120",
+        "timeEnd": "00:01:40:120",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_36.mp4",
+        "dialogue": {
+            "original": "Geç kalmayın.",
+            "translated": "Don't be late.",
+            "adapted": "देर मत करो."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "37"
+        },
+        "timeStart": "00:01:40:880",
+        "timeEnd": "00:01:42:960",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_37.mp4",
+        "dialogue": {
+            "original": "Sen eve geldiğinden beri herkesi çileden çıkarıyor.",
+            "translated": "She’s been driving everyone crazy since you’re coming home..",
+            "adapted": "जब से तुम घर आए हो, वह सबको पागल कर रही है.."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "38"
+        },
+        "timeStart": "00:01:43:040",
+        "timeEnd": "00:01:44:880",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_38.mp4",
+        "dialogue": {
+            "original": "Neyse seni bekliyorum.",
+            "translated": "Anyway, I'm waiting for you.",
+            "adapted": "खैर, मैं तुम्हारा इंतज़ार कर रहा हूँ."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "39"
+        },
+        "timeStart": "00:01:44:960",
+        "timeEnd": "00:01:47:160",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_39.mp4",
+        "dialogue": {
+            "original": "Tamamdır, merak etmeyin, görüşmek üzere.",
+            "translated": "Okay, don't worry, see you.",
+            "adapted": "ठीक है, चिंता मत करो, मिलते हैं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "40"
+        },
+        "timeStart": "00:02:06:960",
+        "timeEnd": "00:02:08:000",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_40.mp4",
+        "dialogue": {
+            "original": "Görüşürüz baba.",
+            "translated": "See you later, dad.",
+            "adapted": "बाद में मिलते हैं, पिताजी."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "41"
+        },
+        "timeStart": "00:02:45:120",
+        "timeEnd": "00:02:46:120",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_41.mp4",
+        "dialogue": {
+            "original": "Annem.",
+            "translated": "Mommy.",
+            "adapted": "माँ."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "42"
+        },
+        "timeStart": "00:02:54:080",
+        "timeEnd": "00:02:55:200",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_42.mp4",
+        "dialogue": {
+            "original": "Yıllar sonra!",
+            "translated": "After so many years!",
+            "adapted": "इतने वर्षों के बाद!"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "43"
+        },
+        "timeStart": "00:03:02:720",
+        "timeEnd": "00:03:04:280",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_43.mp4",
+        "dialogue": {
+            "original": "En sonunda sana geldim.",
+            "translated": "Finally, I came to you.",
+            "adapted": "अंततः मैं आपके पास आया।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "44"
+        },
+        "timeStart": "00:03:07:760",
+        "timeEnd": "00:03:09:280",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_44.mp4",
+        "dialogue": {
+            "original": "Kaçıp buraya geldim.",
+            "translated": "I fled to come here.",
+            "adapted": "मैं भागकर यहां आया हूं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "45"
+        },
+        "timeStart": "00:03:13:240",
+        "timeEnd": "00:03:16:200",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_45.mp4",
+        "dialogue": {
+            "original": "Sensiz olmak çok zor Annem.",
+            "translated": "It's so difficult to be without you, M other.",
+            "adapted": "तुम्हारे बिना रहना बहुत कठिन है, दोस्त।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "46"
+        },
+        "timeStart": "00:03:26:960",
+        "timeEnd": "00:03:27:960",
+        "character": "Yakup",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_46.mp4",
+        "dialogue": {
+            "original": "İSİM_7.",
+            "translated": "Yakup.",
+            "adapted": "नाम_7."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "47"
+        },
+        "timeStart": "00:03:28:400",
+        "timeEnd": "00:03:31:360",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_47.mp4",
+        "dialogue": {
+            "original": "Kardeşini ara ve hemen eve gelmesini söyle.",
+            "translated": "Call your sister and tell her to come home immediately.",
+            "adapted": "अपनी बहन को फोन करो और उसे तुरंत घर आने को कहो।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "48"
+        },
+        "timeStart": "00:03:31:440",
+        "timeEnd": "00:03:34:920",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_48.mp4",
+        "dialogue": {
+            "original": "Yemin ederim çok korkuyorum. Babana ne diyeceğiz?",
+            "translated": "I swear to God, I'm terrified. What would we tell your father?",
+            "adapted": "भगवान की कसम, मैं बहुत डर गया हूँ। हम तुम्हारे पिता से क्या कहेंगे?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "49"
+        },
+        "timeStart": "00:03:35:000",
+        "timeEnd": "00:03:36:680",
+        "character": "Songful",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_49.mp4",
+        "dialogue": {
+            "original": "Doğruyu söyleyelim, Songful.",
+            "translated": "We'll tell the truth, Songful.",
+            "adapted": "हम सच बताएंगे, Songful."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "50"
+        },
+        "timeStart": "00:03:36:840",
+        "timeEnd": "00:03:38:680",
+        "character": "Suna",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_50.mp4",
+        "dialogue": {
+            "original": "Suna'i ziyaret ederek \"Geçmiş olsun\" dedi.",
+            "translated": "She visited Suna to say, “Get well soon.”",
+            "adapted": "वह Suna से मिलने आई और कहा, “जल्दी ठीक हो जाओ।”"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "51"
+        },
+        "timeStart": "00:03:38:760",
+        "timeEnd": "00:03:40:800",
+        "character": "Tayyar",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_51.mp4",
+        "dialogue": {
+            "original": "Peder Tayyar bize çok kızacak.",
+            "translated": "Father Tayyar will be mad at us.",
+            "adapted": "पिता Tayyar हम पर गुस्सा होंगे."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "52"
+        },
+        "timeStart": "00:03:41:160",
+        "timeEnd": "00:03:44:000",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_52.mp4",
+        "dialogue": {
+            "original": "Siz aldanabilirsiniz ama ben aldanmıyorum.",
+            "translated": "You might be fooled, but I’m not.",
+            "adapted": "आप शायद धोखा खा गए होंगे, लेकिन मैं नहीं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "53"
+        },
+        "timeStart": "00:03:44:520",
+        "timeEnd": "00:03:45:800",
+        "character": "Ceylan",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_53.mp4",
+        "dialogue": {
+            "original": "Ceylan merhametlidir.",
+            "translated": "Ceylan is merciful.",
+            "adapted": "Ceylan दयालु है."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "54"
+        },
+        "timeStart": "00:03:46:440",
+        "timeEnd": "00:03:48:920",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_54.mp4",
+        "dialogue": {
+            "original": "Arkadaşını böyle bırakmak istemiyordu.",
+            "translated": "She didn't want to leave her friend like that.",
+            "adapted": "वह अपनी सहेली को ऐसे नहीं छोड़ना चाहती थी।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "55"
+        },
+        "timeStart": "00:03:49:000",
+        "timeEnd": "00:03:50:880",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_55.mp4",
+        "dialogue": {
+            "original": "Ona bir çorba yapmak istiyordu.",
+            "translated": "She wanted to make a soup for her.",
+            "adapted": "वह उसके लिए सूप बनाना चाहती थी।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "56"
+        },
+        "timeStart": "00:03:50:960",
+        "timeEnd": "00:03:52:160",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_56.mp4",
+        "dialogue": {
+            "original": "Ve ben onu öylece bıraktım.",
+            "translated": "And I just let her go.",
+            "adapted": "और मैंने उसे जाने दिया."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "57"
+        },
+        "timeStart": "00:03:52:920",
+        "timeEnd": "00:03:55:200",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_57.mp4",
+        "dialogue": {
+            "original": "Bu arada, üst sokakta oturuyorlar.",
+            "translated": "They live in the upper street, by the way.",
+            "adapted": "वैसे, वे ऊपरी गली में रहते हैं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "58"
+        },
+        "timeStart": "00:03:55:440",
+        "timeEnd": "00:03:56:520",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_58.mp4",
+        "dialogue": {
+            "original": "Onların evini biliyorum.",
+            "translated": "I know their house.",
+            "adapted": "मैं उनका घर जानता हूं."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "59"
+        },
+        "timeStart": "00:03:57:400",
+        "timeEnd": "00:03:59:120",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_59.mp4",
+        "dialogue": {
+            "original": "Babam sorarsa söylerim.",
+            "translated": "I'll tell my father if he asks.",
+            "adapted": "अगर मेरे पिता पूछेंगे तो मैं उन्हें बता दूंगी।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "60"
+        },
+        "timeStart": "00:03:59:360",
+        "timeEnd": "00:04:00:840",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_60.mp4",
+        "dialogue": {
+            "original": "Ben onun kardeşiyim sonuçta.",
+            "translated": "I'm her brother, after all.",
+            "adapted": "आखिरकार मैं उसका भाई हूं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "61"
+        },
+        "timeStart": "00:04:01:280",
+        "timeEnd": "00:04:03:040",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_61.mp4",
+        "dialogue": {
+            "original": "Hadi ama, bu kadar büyük konuşma!",
+            "translated": "Come on, don't talk so big!",
+            "adapted": "चलो, इतनी बड़ी बातें मत करो!"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "62"
+        },
+        "timeStart": "00:04:04:000",
+        "timeEnd": "00:04:06:840",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_62.mp4",
+        "dialogue": {
+            "original": "Sanki baban senin ne söylediğini umursuyormuş gibi.",
+            "translated": "As if your father cares what you say.",
+            "adapted": "मानो तुम्हारे पिता को तुम्हारी बातों की परवाह है।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "63"
+        },
+        "timeStart": "00:04:11:560",
+        "timeEnd": "00:04:13:800",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_63.mp4",
+        "dialogue": {
+            "original": "Şimdi birdenbire beni endişelendirdin.",
+            "translated": "You made me worried now, out of the blue.",
+            "adapted": "तुमने मुझे अचानक चिंतित कर दिया है।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "64"
+        },
+        "timeStart": "00:04:14:680",
+        "timeEnd": "00:04:15:800",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_64.mp4",
+        "dialogue": {
+            "original": "Arayayım onu.",
+            "translated": "Let me call her.",
+            "adapted": "मुझे उसे फोन करने दो."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "65"
+        },
+        "timeStart": "00:04:16:760",
+        "timeEnd": "00:04:17:960",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_65.mp4",
+        "dialogue": {
+            "original": "Ve nerede olduğunu gör.",
+            "translated": "And see where she is.",
+            "adapted": "और देखो वह कहाँ है."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "66"
+        },
+        "timeStart": "00:04:18:200",
+        "timeEnd": "00:04:19:200",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_66.mp4",
+        "dialogue": {
+            "original": "Telefonum nerede?",
+            "translated": "Where is my phone?",
+            "adapted": "मेरा फ़ोन कहां है?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "67"
+        },
+        "timeStart": "00:04:20:600",
+        "timeEnd": "00:04:22:720",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_67.mp4",
+        "dialogue": {
+            "original": "Ancak şimdi gelebildim.",
+            "translated": "I could only come now.",
+            "adapted": "मैं अब ही आ सकता था."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "68"
+        },
+        "timeStart": "00:04:25:400",
+        "timeEnd": "00:04:28:120",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_68.mp4",
+        "dialogue": {
+            "original": "Babam seni ziyarete gelmemi istemedi.",
+            "translated": "Dad didn't want me to visit you.",
+            "adapted": "पिताजी नहीं चाहते थे कि मैं आपसे मिलने आऊं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "69"
+        },
+        "timeStart": "00:04:29:640",
+        "timeEnd": "00:04:30:640",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_69.mp4",
+        "dialogue": {
+            "original": "Çünkü sen...",
+            "translated": "Because you...",
+            "adapted": "क्योंकि आप..."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "70"
+        },
+        "timeStart": "00:04:31:440",
+        "timeEnd": "00:04:32:640",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_70.mp4",
+        "dialogue": {
+            "original": "Kendini öldürdün.",
+            "translated": "killed yourself.",
+            "adapted": "खुद को मार डाला."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "71"
+        },
+        "timeStart": "00:04:36:160",
+        "timeEnd": "00:04:38:800",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_71.mp4",
+        "dialogue": {
+            "original": "Sizden hiç bahsetmiyor, bizim de bahsetmemize izin vermiyor.",
+            "translated": "He never mentions you, nor does he let us do so.",
+            "adapted": "वह कभी भी आपका जिक्र नहीं करता, न ही वह हमें ऐसा करने देता है।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "72"
+        },
+        "timeStart": "00:04:42:800",
+        "timeEnd": "00:04:44:280",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_72.mp4",
+        "dialogue": {
+            "original": "Neler olduğunu kim bilir?",
+            "translated": "Who knows what happened?",
+            "adapted": "कौन जानता है क्या हुआ?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "73"
+        },
+        "timeStart": "00:04:44:760",
+        "timeEnd": "00:04:46:760",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_73.mp4",
+        "dialogue": {
+            "original": "Neden canına kıydın?",
+            "translated": "Why did you take your own life?",
+            "adapted": "तुमने अपनी जान क्यों ली?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "74"
+        },
+        "timeStart": "00:04:47:320",
+        "timeEnd": "00:04:48:520",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_74.mp4",
+        "dialogue": {
+            "original": "Sen gidince...",
+            "translated": "With you gone...",
+            "adapted": "तुम्हारे चले जाने के बाद..."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "75"
+        },
+        "timeStart": "00:04:51:160",
+        "timeEnd": "00:04:52:760",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_75.mp4",
+        "dialogue": {
+            "original": "Bana anneannem baktı.",
+            "translated": "Grandma took care of me.",
+            "adapted": "दादी ने मेरी देखभाल की."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "76"
+        },
+        "timeStart": "00:05:02:160",
+        "timeEnd": "00:05:04:040",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_76.mp4",
+        "dialogue": {
+            "original": "Kardeşim, bir şey mi oldu?",
+            "translated": "Brother, did something happen?",
+            "adapted": "भाई, कुछ हुआ क्या?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "77"
+        },
+        "timeStart": "00:05:04:600",
+        "timeEnd": "00:05:06:720",
+        "character": "Ceylan",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_77.mp4",
+        "dialogue": {
+            "original": "Ceylan canım, senin için endişeleniyorum.",
+            "translated": "Ceylan dear, I'm worried about you.",
+            "adapted": "Ceylan प्रिय, मुझे तुम्हारी चिंता है।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "78"
+        },
+        "timeStart": "00:05:08:640",
+        "timeEnd": "00:05:10:440",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_78.mp4",
+        "dialogue": {
+            "original": "Anneannem vefat etti.",
+            "translated": "Grandma passed away.",
+            "adapted": "दादी का निधन हो गया."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "79"
+        },
+        "timeStart": "00:05:11:920",
+        "timeEnd": "00:05:14:840",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_79.mp4",
+        "dialogue": {
+            "original": "Son nefesine kadar yanında olamadım.",
+            "translated": "I couldn't be with her until her last breath.",
+            "adapted": "मैं उसकी आखिरी सांस तक उसके साथ नहीं रह सका।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "80"
+        },
+        "timeStart": "00:05:14:920",
+        "timeEnd": "00:05:16:520",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_80.mp4",
+        "dialogue": {
+            "original": "Cenazesi dün kaldırıldı.",
+            "translated": "Her funeral was yesterday.",
+            "adapted": "उनका अंतिम संस्कार कल हुआ।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "81"
+        },
+        "timeStart": "00:05:17:880",
+        "timeEnd": "00:05:19:560",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_81.mp4",
+        "dialogue": {
+            "original": "Ben annemizin yanındayım.",
+            "translated": "I'm next to our mother.",
+            "adapted": "मैं अपनी मां के बगल में हूं।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "82"
+        },
+        "timeStart": "00:05:23:560",
+        "timeEnd": "00:05:25:600",
+        "character": "Sakarya",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_82.mp4",
+        "dialogue": {
+            "original": "Babam hala Sakarya'da mı?",
+            "translated": "Is Dad still in Sakarya?",
+            "adapted": "क्या पिताजी अभी भी Sakarya में हैं?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "83"
+        },
+        "timeStart": "00:05:26:560",
+        "timeEnd": "00:05:29:120",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_83.mp4",
+        "dialogue": {
+            "original": "Evet, gece olmadan dönmeyecek.",
+            "translated": "Yeah, he will not be back before night.",
+            "adapted": "हाँ, वह रात से पहले वापस नहीं आएगा।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "84"
+        },
+        "timeStart": "00:05:30:240",
+        "timeEnd": "00:05:31:240",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_84.mp4",
+        "dialogue": {
+            "original": "Erkek kardeş.",
+            "translated": "Brother.",
+            "adapted": "भाई।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "85"
+        },
+        "timeStart": "00:05:31:960",
+        "timeEnd": "00:05:34:440",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_85.mp4",
+        "dialogue": {
+            "original": "Karına bundan hiç bahsetmedin değil mi?",
+            "translated": "You didn't tell your wife anything about this, did you?",
+            "adapted": "तुमने अपनी पत्नी को इस बारे में कुछ नहीं बताया, है ना?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "86"
+        },
+        "timeStart": "00:05:34:560",
+        "timeEnd": "00:05:35:560",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_86.mp4",
+        "dialogue": {
+            "original": "HAYIR!",
+            "translated": "No!",
+            "adapted": "नहीं!"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "87"
+        },
+        "timeStart": "00:05:36:160",
+        "timeEnd": "00:05:37:160",
+        "character": "Suna",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_87.mp4",
+        "dialogue": {
+            "original": "Suna nasıl?",
+            "translated": "How is Suna?",
+            "adapted": "Suna कैसा है?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "88"
+        },
+        "timeStart": "00:05:38:560",
+        "timeEnd": "00:05:41:840",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_88.mp4",
+        "dialogue": {
+            "original": "Rahat konuşamadığını görüyorum. O seninle mi?",
+            "translated": "I see you can't talk comfortably. Is she with you?",
+            "adapted": "मैं देख रहा हूँ कि तुम आराम से बात नहीं कर पा रहे हो। क्या वह तुम्हारे साथ है?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "89"
+        },
+        "timeStart": "00:05:42:600",
+        "timeEnd": "00:05:43:600",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_89.mp4",
+        "dialogue": {
+            "original": "Evet.",
+            "translated": "Yeah.",
+            "adapted": "हाँ।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "90"
+        },
+        "timeStart": "00:05:44:120",
+        "timeEnd": "00:05:46:520",
+        "character": "Suna",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_90.mp4",
+        "dialogue": {
+            "original": "Tamam, Suna'e merhaba de.",
+            "translated": "Alright, say hi to Suna.",
+            "adapted": "ठीक है, Suna को नमस्ते कहें."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "91"
+        },
+        "timeStart": "00:05:47:040",
+        "timeEnd": "00:05:48:920",
+        "character": "Ceylan",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_91.mp4",
+        "dialogue": {
+            "original": "Zamanında geri dön, Ceylan, canım,",
+            "translated": "Come back on time, Ceylan, dear,",
+            "adapted": "समय पर वापस आओ, Ceylan, प्रिय,"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "92"
+        },
+        "timeStart": "00:05:49:480",
+        "timeEnd": "00:05:50:800",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_92.mp4",
+        "dialogue": {
+            "original": "b Babam eve gelmeden önce.",
+            "translated": "b before Dad gets home.",
+            "adapted": "पिताजी के घर आने से पहले ही।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "93"
+        },
+        "timeStart": "00:05:50:880",
+        "timeEnd": "00:05:52:440",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_93.mp4",
+        "dialogue": {
+            "original": "Aksi takdirde ne olacağını biliyorsunuz.",
+            "translated": "Otherwise, you know what will happen.",
+            "adapted": "अन्यथा, आप जानते हैं कि क्या होगा।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "94"
+        },
+        "timeStart": "00:05:52:520",
+        "timeEnd": "00:05:53:520",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_94.mp4",
+        "dialogue": {
+            "original": "Biliyorum kardeşim.",
+            "translated": "I know, brother.",
+            "adapted": "मुझे पता है, भाई."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "95"
+        },
+        "timeStart": "00:05:54:360",
+        "timeEnd": "00:05:56:320",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_95.mp4",
+        "dialogue": {
+            "original": "Otobüs iki saat sonra kalkıyor.",
+            "translated": "The bus leaves in two hours.",
+            "adapted": "बस दो घंटे में रवाना होगी।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "96"
+        },
+        "timeStart": "00:05:59:320",
+        "timeEnd": "00:06:00:360",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_96.mp4",
+        "dialogue": {
+            "original": "Geliyor mu?",
+            "translated": "Is she coming?",
+            "adapted": "क्या वह आ रही है?"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "97"
+        },
+        "timeStart": "00:06:00:880",
+        "timeEnd": "00:06:01:920",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_97.mp4",
+        "dialogue": {
+            "original": "Evet o.",
+            "translated": "Yes, she is.",
+            "adapted": "हां वह है।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "98"
+        },
+        "timeStart": "00:06:19:560",
+        "timeEnd": "00:06:21:840",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_98.mp4",
+        "dialogue": {
+            "original": "Seni bırakmak istemiyorum anne.",
+            "translated": "I don't want to leave you, mom.",
+            "adapted": "मैं तुम्हें छोड़ना नहीं चाहता, माँ."
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "99"
+        },
+        "timeStart": "00:06:23:800",
+        "timeEnd": "00:06:25:000",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_99.mp4",
+        "dialogue": {
+            "original": "Ama gitmem lazım.",
+            "translated": "But I have to go.",
+            "adapted": "लेकिन मुझे जाना होगा।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    },
+    {
+        "index": {
+            "$numberInt": "100"
+        },
+        "timeStart": "00:06:36:480",
+        "timeEnd": "00:06:37:480",
+        "character": "Character Name",
+        "videoUrl": "https://pub-ca2dd6ef0390446c8dda16e228d97cf6.r2.dev/Kuma%20Ep%2001/videos/Kuma%20Ep%2001_Clip_100.mp4",
+        "dialogue": {
+            "original": "Güle güle.",
+            "translated": "Goodbye.",
+            "adapted": "अलविदा।"
+        },
+        "emotions": {
+            "primary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            },
+            "secondary": {
+                "emotion": "Neutral",
+                "intensity": {
+                    "$numberInt": "1"
+                }
+            }
+        },
+        "direction": "Normal tone",
+        "lipMovements": {
+            "$numberInt": "0"
+        },
+        "sceneContext": "Character speaking",
+        "technicalNotes": "Neutral tone",
+        "culturalNotes": "General conversation",
+        "audioUrl": null,
+        "status": "recorded",
+        "recordingStatus": "pending"
+    }
+]

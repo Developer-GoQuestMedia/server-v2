@@ -43,10 +43,21 @@ router.get('/list/:projectId', async (req, res) => {
             });
         }
 
-        const dialogues = await Dialogue.find({ project: projectId })
+        const projectObjectId = new mongoose.Types.ObjectId(projectId);
+        
+        console.log('Searching for dialogues with project ID:', projectObjectId);
+        
+        const dialogues = await Dialogue.find({ project: projectObjectId })
             .sort({ videoIndex: 1, index: 1 })
             .populate('lastEditedBy', 'name email')
             .lean();
+        
+        console.log(`Found ${dialogues.length} dialogues`);
+        
+        // Log a sample dialogue if any exist
+        if (dialogues.length > 0) {
+            console.log('Sample dialogue:', JSON.stringify(dialogues[0], null, 2));
+        }
         
         res.json(dialogues);
     } catch (error) {

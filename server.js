@@ -6,6 +6,9 @@ import { validateEnvironment, validateMongoDBConnection } from './utils/db.js';
 import dialogueRoutes from './routes/dialogue.js';
 import videoRoutes from './routes/video.js';
 import audioRoutes from './routes/audio.js';
+import seedDatabase from './utils/seedDatabase.js';
+// import uploadToR2 from './utils/uploadToR2.js';
+import { uploadToR2, emptyR2Bucket } from './utils/uploadToR2.js';
 
 dotenv.config();
 
@@ -52,6 +55,14 @@ const startServer = async () => {
     try {
         validateEnvironment();
         await validateMongoDBConnection();
+        
+
+        // uncomment only when you want to upload to R2 from local folder
+        // await uploadToR2();
+
+        // console.log('R2 Upload completed');
+        await seedDatabase();
+            
         app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
     } catch (error) {
         console.error('Server startup error:', error.message);
@@ -60,3 +71,6 @@ const startServer = async () => {
 };
 
 startServer();
+
+
+// Kuma Ep 01 Video Clip
