@@ -16,7 +16,7 @@ const app = express();
 
 // Enhanced CORS configuration
 app.use(cors({
-    origin: ['http://localhost:3000', 'https://developer-goquestmedia.github.io'],
+    origin: ['http://localhost:3000','http://localhost:5174', 'https://developer-goquestmedia.github.io'],
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
     allowedHeaders: [
         'Content-Type', 
