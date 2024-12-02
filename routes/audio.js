@@ -37,20 +37,32 @@ router.post('/upload', upload.single('audio'), async (req, res) => {
             throw new Error('Bucket name is not configured');
         }
 
-        const filename = req.file.originalname;
+        const dialogue = await Dialogue.findById(dialogueId);
+        if (!dialogue) {
+            return res.status(404).json({ error: 'Dialogue not found' });
+        }
+
+        const folderPath = 'Kuma Ep 01/recordings/';
+
+        const filename = decodeURIComponent(req.file.originalname);
+        console.log('Filename:', filename); 
+        const fullPath = `${folderPath}${filename}`;
+        console.log('Full path:', fullPath);
         
         const uploadParams = {
             Bucket: process.env.R2_BUCKET_NAME,
-            Key: filename,
+            Key: fullPath,
             Body: req.file.buffer,
             ContentType: 'audio/wav',
         };
+        console.log("///////////////////////////////");
+        
 
         console.log('Upload params:', uploadParams);
 
         await s3Client.send(new PutObjectCommand(uploadParams));
 
-        const audioUrl = `${process.env.R2_BUCKET_ENDPOINT}${filename}`;
+        const audioUrl = `${process.env.R2_BUCKET_ENDPOINT}${fullPath}`;
 
         await Dialogue.findByIdAndUpdate(dialogueId, {
             audioUrl: audioUrl,
